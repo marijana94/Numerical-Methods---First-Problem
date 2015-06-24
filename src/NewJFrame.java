@@ -10,7 +10,7 @@ public class NewJFrame extends javax.swing.JFrame {
     private double determinante_a;
     private double determinante_b;
     private double var_a;
-    private double var_b;
+    private double var_b; 
 
     public NewJFrame() {
         initComponents();
